@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmaymohapatra2006&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmaymohapatra2006&show_icons=true&theme=tokyonight&cache_seconds=0)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;One+model+at+a+time.;B.Tech+CSE+(AI+%26+ML)+%7C+1st+Year;Always+learning.+Always+building.)](https://git.io/typing-svg)
 
 </div>
