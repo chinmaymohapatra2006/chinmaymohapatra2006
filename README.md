@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:534AB7&height=200&section=header&text=Chinmay%20Mohapatra&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20in%20Progress&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:534AB7&height=200&section=header&text=chinmaymohapatra2006&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20in%20Progress&descAlignY=58&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;One+model+at+a+time.;B.Tech+CSE+(AI+%26+ML)+%7C+1st+Year;Always+learning.+Always+building.)](https://git.io/typing-svg)
 
